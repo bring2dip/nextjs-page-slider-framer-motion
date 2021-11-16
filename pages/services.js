@@ -1,5 +1,5 @@
 const Index = () => (<>
-  <div style={{backgroundColor: 'blue'}}>Home</div>
+  <div style={{backgroundColor: 'red'}}>Services</div>
   <style>
     {`
         div {
